@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/catalog-front',
+  basePath: '/',
   supportedLocales: {
   "en-US": ""
 },
