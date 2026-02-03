@@ -1,0 +1,13 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>CatalogFront</title>
+  <base href="/catalog-front/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>@layer theme,base,components,utilities;@layer theme{:root{--font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";--font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;--default-font-family: var(--font-sans);--default-mono-font-family: var(--font-mono)}}@layer base{*,:after,:before{box-sizing:border-box;margin:0;padding:0;border:0 solid}html{line-height:1.5;-webkit-text-size-adjust:100%;tab-size:4;font-family:var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");font-feature-settings:var(--default-font-feature-settings, normal);font-variation-settings:var(--default-font-variation-settings, normal);-webkit-tap-highlight-color:transparent}}@layer utilities{}
+</style><link rel="stylesheet" href="styles-3QRT5YUZ.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-3QRT5YUZ.css"></noscript></head>
+<body><!--nghm-->
+  <app-root ng-version="21.1.2" ngh="1" ng-server-context="ssg"><app-head ngh="0"><p>head works!</p></app-head><app-item ngh="0"><p>a</p><p>bbbb</p><p>1.1</p></app-item><app-item ngh="0"><p>a</p><p>bbbb</p><p>1.1</p></app-item><app-item ngh="0"><p>a</p><p>bbbb</p><p>1.1</p></app-item><app-item ngh="0"><p>a</p><p>bbbb</p><p>1.1</p></app-item><!----><app-foot ngh="0"><p>foot works!</p></app-foot></app-root>
+<script src="main-O5PINN6J.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{},{"t":{"2":"t0"},"c":{"2":[{"i":"t0","r":1,"x":4}]}}]}</script></body></html>`;
