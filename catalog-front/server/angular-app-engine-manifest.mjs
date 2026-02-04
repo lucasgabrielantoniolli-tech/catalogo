@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '../catalogo',
   supportedLocales: {
   "en-US": ""
 },
