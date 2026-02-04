@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/catalogo',
+  basePath: 'https://github.com/lucasgabrielantoniolli-tech/catalogo',
   supportedLocales: {
   "en-US": ""
 },
